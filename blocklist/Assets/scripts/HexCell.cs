@@ -7,6 +7,7 @@ public class HexCell : MonoBehaviour {
 
 	public HexCoordinates coordinates;
 
+	public Color color;
 
 	// Use this for initialization
 	void Start () {
